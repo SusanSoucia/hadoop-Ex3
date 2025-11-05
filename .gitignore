@@ -3,4 +3,3 @@ bin
 .settings
 
 src/app.java  
-src/MergeFiles.java
